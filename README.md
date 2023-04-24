@@ -1,4 +1,4 @@
-# OtherPrograms
+# CodeWars Solutions
 This Repository contains programs I answered as challenges in codewars website. You may view the codes under the **src Folder**.
 
 CodeWars is a website that allows you to challenge and answer programming questions, and allows you to rank up if correct.
@@ -36,7 +36,10 @@ Currently, this Repository contains 5 Programs:
     The program finds the Uppercase Letter in a camelCase String. If found, it
     will separate and output the separated word/s with an Uppercase Letter. If
     no Uppercase Letter was found, it will output the word without modifications.
-    
+
+**8. WHO LIKES IT?**
+
+**9. HUMAN READABLE TIME**
     
     
 More code will be added as I take on the challenges in codewars.com.
